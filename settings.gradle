@@ -1,0 +1,1 @@
+include ':app', ':client', ':musicplayer', ':viewmovement', ':hellomap', ':baidumap', ':appcontroler', ':luckymoneymonitor'
